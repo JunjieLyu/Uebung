@@ -1,0 +1,2 @@
+F:\我的C语言程序\test20210106\Debug\test20210106.exe
+F:\我的C语言程序\test20210106\Debug\test20210106.pdb
